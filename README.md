@@ -1,4 +1,8 @@
 ﻿# Pronak-Traffic-Light
+## Member
+140810230020 - Alfarisy Nafaro Gymnastiar
+140810230042 - Hamud Abdul Aziz
+140810230072 - Arya Muhammad Rafi Raharjo
 -----------------------------------------
 ### Installation
 
@@ -7,7 +11,7 @@
       $ git clone https://github.com/abdazizhamud/pronak-traffic
 ```
 
-* Step II: Download the weights file from [here](https://drive.google.com/file/d/1flTehMwmGg-PMEeQCsDS2VWRLGzV6Wdo/view?usp=sharing) and place it in the Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow/bin directory
+* Step II: Download the weights file from [here](https://drive.google.com/file/d/1flTehMwmGg-PMEeQCsDS2VWRLGzV6Wdo/view?usp=sharing) 
 
 * Step III: Install the required packages
 ```sh
